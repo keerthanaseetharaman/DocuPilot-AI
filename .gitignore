@@ -1,0 +1,39 @@
+# Python
+__pycache__/
+*.py[cod]
+venv/
+.venv/
+
+# Environment / API keys
+.env
+.env.*
+
+# Uploaded documents
+uploads/
+backend/uploads/
+
+# ChromaDB
+chroma_db/
+backend/chroma_db/
+
+# Node
+node_modules/
+frontend/node_modules/
+
+# Build
+dist/
+build/
+.vite/
+
+# Logs
+*.log
+
+# VS Code
+.vscode/
+
+# HTTP Forge
+.http-forge/
+
+# OS
+.DS_Store
+Thumbs.db

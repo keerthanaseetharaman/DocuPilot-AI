@@ -1,0 +1,75 @@
+# ==============================
+# Python
+# ==============================
+
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environment
+venv/
+.venv/
+env/
+
+# ==============================
+# Environment / API Keys
+# ==============================
+
+.env
+.env.*
+!.env.example
+
+# ==============================
+# Uploaded Documents
+# ==============================
+
+backend/uploads/
+uploads/
+
+# ==============================
+# ChromaDB
+# ==============================
+
+backend/chroma_db/
+chroma_db/
+
+# ==============================
+# Python cache / testing
+# ==============================
+
+.pytest_cache/
+.mypy_cache/
+.coverage
+
+# ==============================
+# Node / React
+# ==============================
+
+node_modules/
+frontend/node_modules/
+
+# Build files
+dist/
+build/
+
+# Vite
+.vite/
+
+# ==============================
+# Logs
+# ==============================
+
+*.log
+
+# ==============================
+# Operating System
+# ==============================
+
+.DS_Store
+Thumbs.db
+
+# ==============================
+# VS Code
+# ==============================
+
+.vscode/
