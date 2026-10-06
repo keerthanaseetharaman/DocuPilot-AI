@@ -371,14 +371,4 @@ DocuPilot AI is being developed as a practical learning and portfolio project fo
 
 This project is created for educational and portfolio purposes.
 
-
-### இப்போ உங்களுக்கு செய்ய வேண்டியது
-
-**GitHub → DocuPilot-AI → `README.md` → Edit ✏️**
-
-அங்கே இருக்கிற **old README content முழுவதையும் delete** பண்ணிட்டு, மேலே நான் கொடுத்ததை **முழுவதும் paste** பண்ணுங்க.
-
-Commit message:
-
-```text
 Improve DocuPilot AI documentation
